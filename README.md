@@ -1,4 +1,6 @@
 # "FinTrack" – Personal Finance & Budget Forecaster
+<img src="https://media.discordapp.net/attachments/1480886368136859649/1480886368543445096/banner.png?ex=69b14e67&is=69affce7&hm=5c41d238cbf8b034d559682511ec5b5fb334bd288d29348c04b6e4d7a17b2669&=&format=webp&quality=lossless&width=1932&height=1086" align="right" width="200px" style="margin: 10px 0 10px 30px; padding: 100px border-radius: 10px">
+
 **Project Outline**
 
 Students often struggle to manage finances. We have built a smart budgeting tool that not only tracks spending but predicts future financial health.
